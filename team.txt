@@ -1,0 +1,6 @@
+Team Name --> Power Ranger
+Student-1 --> Anuj Singh
+Student-2 --> Rohit Kumar
+Student-3 --> Sanjay Kumar
+Student-2 --> Shobha Kumari
+Student-2 --> Navneet Singh
